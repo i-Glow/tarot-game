@@ -1,9 +1,9 @@
-# Nom de l'application
+# Tarot
 
 Application mobile développée avec **Flutter** dans le cadre d'un projet universitaire pour le cours de développement mobile.
 
 ## Présentation
 
-Ce projet consiste en la conception et le développement d'une application mobile visant à mettre en pratique les concepts et les outils étudiés durant le cours de développement mobile.
+Tarot est une application mobile permettant de jouer au jeu de cartes **Tarot français**, entièrement hors ligne, contre des joueurs contrôlés par le système.
 
-L'application a été développée avec Flutter et Dart, avec pour objectif de découvrir le développement multiplateforme, la création d'interfaces utilisateur et la gestion des interactions au sein d'une application mobile.
+Développée avec Flutter et Dart, elle a pour objectif de mettre en pratique les concepts du développement mobile multiplateforme, notamment la création d'interfaces interactives, la gestion de l'état de l'application et l'implémentation de la logique d'un jeu de cartes.
